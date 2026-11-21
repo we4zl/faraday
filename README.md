@@ -254,3 +254,7 @@ Development output, caches, and Git metadata are excluded from copied releases.
 See [publishing readiness](docs/publishing.md) for the marketplace checklist.
 
 MIT licensed.
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
